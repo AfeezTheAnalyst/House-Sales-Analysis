@@ -10,7 +10,6 @@ Here's the link to the dataset: [King County, Washington DC House Sales](https:/
 ## Objective
 The obbjective of this Project is have an indepth understanding of the house mortgate in the county, have knowledge of house price base on some predetermined features of the choice of house of a potential buyer. this information will provide an insight of the mortgage business in the county. Other objective of these are:
 
-
 1. __Market Trends:__ to analyze and identify trends in the real estate market, such as fluctuations in property prices, supply and demand dynamics, and market hotspots.
 
 2. __Investment Opportunities:__ Investors use house sales analysis to identify potentially lucrative investment opportunities. Understanding market trends and property values helps investors make informed decisions about buying, selling, or holding onto real estate assets.
@@ -26,3 +25,15 @@ Overall, analyzing house sales data provides valuable insights into the real est
  ## Tools used
    1. **Microsoft Excel 365 version:** I used this tool to primarily conduct some cleansing procedures of the dataset.  
    2. **Tableau Desktop:** A business intelligence used in conducting some analysis, make visualizations, and create a resourceful dashboard with good interactive features.
+
+## Skills & Concepts Demonstrated
+1. __Filters__  
+   i. Calendar widget (Including dropdown menu by month)
+   ii. Sliders (Year Built, Square living, and Square lot) 
+2. __Visuals__  
+   i. Line Chart (With average house price)
+   ii. Map (Average Price by on area)
+   iii. Histograms (Distributions of Bedrooms, Bathrooms, and House Prices)
+   iv. Heatmap (Compares View and Condition)
+3. __Dashboard__
+    
