@@ -30,20 +30,20 @@ Overall, analyzing house sales data provides valuable insights into the real est
 
 ## Skills & Concepts Demonstrated
 1. __Filters__  
-   i. Calendar widget (Including dropdown menu by month)  
-   ii. Sliders (Year Built, Square living, and Square lot) 
+   - Calendar widget (Including dropdown menu by month)  
+   - Sliders (Year Built, Square living, and Square lot) 
 2. __Visuals__  
-   i. Line Chart (With average house prices)  
-   ii. Map (Average Price by on area)  
-   iii. Histograms (Distributions of Bedrooms, Bathrooms, and House Prices)  
-   iv. Heatmap (Compares View and Condition)
+   - Line Chart (With average house prices)  
+   - Map (Average Price by on area)  
+   - Histograms (Distributions of Bedrooms, Bathrooms, and House Prices)  
+   - Heatmap (Compares View and Condition)
 3. __Dashboard__
 
 ## Problem Statement
-1. What is the average house price on month and daily daily basis?
-2. Which area in Washington recorded the highest average sale price in 2014 and 2015
-3. What is the distribution of bedroom, bathroom in the month of January 2015?
-4. What is the relationship between View and Condition of the house? Does it have an impact on the price of the property?
+- What is the average house price on month and daily daily basis?
+- Which area in Washington recorded the highest average sale price in 2014 and 2015
+- What is the distribution of bedroom, bathroom in the month of January 2015?
+- What is the relationship between View and Condition of the house? Does it have an impact on the price of the property?
 
 ## Data Modelling
 This is single file and it contains all necessary variables needed to analyze the data. In other word, this is our fact table.
