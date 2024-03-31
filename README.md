@@ -32,8 +32,8 @@ Overall, analyzing house sales data provides valuable insights into the real est
 1. __Filters__  
    - Calendar widget (Including dropdown menu by month)  
    - Sliders (Year Built, Square living, and Square lot) 
-2. __Visuals__  
-   - Line Chart (With average house prices)  
+2. __Visualization__  
+   - Line Chart (Daily Average House Sale Prices)  
    - Map (Average Price by on area)  
    - Histograms (Distributions of Bedrooms, Bathrooms, and House Prices)  
    - Heatmap (Compares View and Condition)
