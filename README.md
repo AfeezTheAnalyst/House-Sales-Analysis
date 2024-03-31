@@ -7,6 +7,8 @@
 The focus of this project is to analyze the house sales of the King County area in Washinbgton DC. The dataset I used was extracted from [Kaggle](https://www.kaggle.com/datasets/andykrause/kingcountysales). This dataset encompasses a range of home characteristics, geographical information, and property change records accumulated over the past ten years. By combining historical data with current information during the cleaning and preparation process, it becomes possible to accurately pinpoint changes like renovations, demolitions, and new constructions. The dataset contains 21,061 records with 16 variables.
 Here's the link to the dataset: [King County, Washington DC House Sales](https://www.kaggle.com/datasets/andykrause/kingcountysales). The dataset is a 2-year records of house sales in the County for the period of 2014 and 2015.
 
+**_Disclaimer:_** _The dataset was extrated from **kaggle**. The information provided in this document/website is for general informational purposes only. While we strive to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the document/website or the information, products, services, or related graphics contained on the document/website for any purpose. Any reliance you place on such information is therefore strictly at your own risk._  
+
 ## Objective
 The obbjective of this Project is have an indepth understanding of the house mortgate in the county, have knowledge of house price base on some predetermined features of the choice of house of a potential buyer. this information will provide an insight of the mortgage business in the county. Other objective of these are:
 
@@ -28,12 +30,20 @@ Overall, analyzing house sales data provides valuable insights into the real est
 
 ## Skills & Concepts Demonstrated
 1. __Filters__  
-   i. Calendar widget (Including dropdown menu by month)
+   i. Calendar widget (Including dropdown menu by month)  
    ii. Sliders (Year Built, Square living, and Square lot) 
 2. __Visuals__  
-   i. Line Chart (With average house price)
-   ii. Map (Average Price by on area)
-   iii. Histograms (Distributions of Bedrooms, Bathrooms, and House Prices)
+   i. Line Chart (With average house prices)  
+   ii. Map (Average Price by on area)  
+   iii. Histograms (Distributions of Bedrooms, Bathrooms, and House Prices)  
    iv. Heatmap (Compares View and Condition)
 3. __Dashboard__
-    
+
+## Problem Statement
+1. What is the average house price on month and daily daily basis?
+2. Which area in Washington recorded the highest average sale price in 2014 and 2015
+3. What is the distribution of bedroom, bathroom in the month of January 2015?
+4. What is the relationship between View and Condition of the house? Does it have an impact on the price of the property?
+
+## Data Modelling
+This is single file and it contains all necessary variables needed to analyze the data. In other word, this is our fact table.
