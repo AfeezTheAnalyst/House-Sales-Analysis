@@ -1,6 +1,8 @@
 # Tableau-Projects
 ## King County Washington House Sales Analysis
 
+![](intro_img.jpg)
+
 ## Introduction
 The focus of this project is to analyze the house sales of the King County area in Washinbgton DC. The dataset I used was extracted from [Kaggle](https://www.kaggle.com/datasets/andykrause/kingcountysales). This dataset encompasses a range of home characteristics, geographical information, and property change records accumulated over the past ten years. By combining historical data with current information during the cleaning and preparation process, it becomes possible to accurately pinpoint changes like renovations, demolitions, and new constructions. The dataset contains 21,061 records with 16 variables.
 Here's the link to the dataset: [King County, Washington DC House Sales](https://www.kaggle.com/datasets/andykrause/kingcountysales). The dataset is a 2-year records of house sales in the County for the period of 2014 and 2015.
