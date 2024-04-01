@@ -84,4 +84,4 @@ Main Analysis: Answer to the Problem Statement
 ### Dashboard Deployment
 ![](HouseSale_Dashboard.jpg)
 
-You can interact with the report [here](https://public.tableau.com/app/profile/afeez.afolabi/viz/HouseSale-KingCountyWashingtonDC_17119324428440/KingCountyHouseSales?publish=yes)  
+You can interact with the report [here](https://public.tableau.com/app/profile/afeez.afolabi/viz/HouseSale-KingCountyWashingtonDC_17119324428440/KingCountyHouseSales?publish=yes) on Tableau Public Server.  
