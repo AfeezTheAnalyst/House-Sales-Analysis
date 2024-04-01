@@ -64,19 +64,24 @@ Main Analysis: Answer to the Problem Statement
 
 | Distribution of House Prices                                   | Distribution of Bedrooms                           
 | -------------------------------------------------------------- | ------------------------------------------------------------ |
-| ![](Distribution_House_Prices.png)                             | ![](Distribution_of_Bedrooms.jpg)                          
+| ![](Distribution_House_Prices.png)                             | ![](Distribution_of_Bedrooms.jpg)                         
 
 
 
-| Distribution of Bathrooms                                      | Daily Average House Sale Price                         
+| Distribution of Bathrooms                                      | Views Vs Condition                         
 | -------------------------------------------------------------- | ------------------------------------------------------------ |
-| ![](Distribution_of_Bathrooms.jpg)                             | ![](Daily_Average_House_Price.jpg)                          
+| ![](Distribution_of_Bathrooms.jpg)                             | ![](View_Vs_Condition_Heatmap.jpg)                          
 
 
 4. **What is the relationship between View and Condition of the house? Does it have an impact on the price of the property?:** Here, we compare views and condition of the house.The view can be Excellent, Good, Average, or no view. Also, the condition can be Fair or badly worn, Average, Good, or Very Good.                                              
 
 
-| Average House Sale Price by Zip Code (Map)                     | View Vs Condition Heatmap                          
+| Average House Sale Price by Zip Code (Map)                     | Daily Average House Sale Price                         
 | -------------------------------------------------------------- | ------------------------------------------------------------ |
-| ![](Map.jpg)                                                   | ![](View_Vs_Condition_Heatmap.jpg) 
+| ![](Map.jpg)                                                   | ![](Daily_Average_House_Price.jpg ) 
 
+
+### Dashboard Deployment
+![](HouseSale_Dashboard.jpg)
+
+You can interact with the report [here](https://public.tableau.com/app/profile/afeez.afolabi/viz/HouseSale-KingCountyWashingtonDC_17119324428440/KingCountyHouseSales?publish=yes)  
