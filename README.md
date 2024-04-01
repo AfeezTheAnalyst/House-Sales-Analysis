@@ -34,7 +34,7 @@ Overall, analyzing house sales data provides valuable insights into the real est
    - Sliders (Year Built, Square living, and Square lot) 
 2. __Visualization__  
    - Line Chart (Daily Average House Sale Prices)  
-   - Map (Average Price by on area)  
+   - Map (Average Price base area zipcode)  
    - Histograms (Distributions of Bedrooms, Bathrooms, and House Prices)  
    - Heatmap (Compares View and Condition)
 3. __Dashboard__
@@ -48,4 +48,16 @@ Overall, analyzing house sales data provides valuable insights into the real est
 ## Data Modelling
 This is single file and it contains all necessary variables needed to analyze the data. In other word, this is our fact table.
 
-You can interact with the report [here](https://public.tableau.com/app/profile/afeez.afolabi/viz/HouseSale-KingCountyWashingtonDC_17119324428440/KingCountyHouseSales?publish=yes)
+You can interact with the report [here](https://public.tableau.com/app/profile/afeez.afolabi/viz/HouseSale-KingCountyWashingtonDC_17119324428440/KingCountyHouseSales?publish=yes)  
+
+### Dashboard Deployment
+![](HouseSale_Dashboard.jpg)
+
+Main Analysis: Answer to the Problem Statement
+1.  **What is the average house price on month and daily daily basis?:** The main control panel of this visualization is at the top left of the dashboard which is the Calendar widget. To answer this question, select your month of interest from either 20214 or 2015. This interactively controls all other visuals of the chart such as the zipcode in the map, average monthly and daily sales of house in that zipcode.
+   
+2.  **Which area in Washington recorded the highest average sale price in 2014 and 2015?:** From the widget select your month and year of interest, and check your answer from the map. for example in June 20214, is **ZIPCODE 98039** with average house price of **$1,317,500** and the least average house price belong to **ZIPCODE 98168** with an average sale price **$220,893** Kindly note that the color scale used to scale the prices is the Sunrise-Sunset Diverging.
+   
+    ![Color Mode](Color_Mode.jpg)
+
+3. **What is the distribution of bedroom, bathroom in the month of January 2015?:** This refers to the distribution of bathroom, and bedroom base on the day, month, or year of interest. Notice that if a day selected from the Calendar widget, only the distribution of house prices, bedroom and bathroom will show as a day does nor necessarily determine a trend in the chart or have an impact on the map. If I select December from the Calendar widget dropdown, the whole chart changes however, if I select 23rd in the month of December, then distribution of house prices, bedroom and bathroom will react while displaying the result using distribution bars. For example, on the 23rd of December 2014, average house price ranges from $250k to $800k, the average bedroom ranges from 3 to 5, and bathroom ranging from 1 to 4.
