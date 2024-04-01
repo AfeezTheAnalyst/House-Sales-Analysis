@@ -60,11 +60,7 @@ Main Analysis: Answer to the Problem Statement
    
     ![Color Mode](Color_Mode.jpg)
 
-3. **What is the distribution of bedroom, bathroom in the month of January 2015?:** This refers to the distribution of bathroom, and bedroom base on the day, month, or year of interest. Notice that if a day selected from the Calendar widget, only the distribution of house prices, bedroom and bathroom will show as a day does nor necessarily determine a trend in the chart or have an impact on the map. If I select December from the Calendar widget dropdown, the whole chart changes however, if I select 23rd in the month of December, then distribution of house prices, bedroom and bathroom will react while displaying the result using distribution bars. For example, on the 23rd of December 2014, average house price ranges from $250k to $800k, the average bedroom ranges from 3 to 5, and bathroom ranging from 1 to 4.
-
-4. **What is the relationship between View and Condition of the house? Does it have an impact on the price of the property?:** Here, we compare views and condition of the house.The view can be Excellent, Good, Average, or no view. Also, the condition can be Fair or badly worn, Average, Good, or Very Good.                                              
-
-
+3. **What is the distribution of bedroom, bathroom in the month of January 2015?:** This refers to the distribution of bathroom, and bedroom base on the day, month, or year of interest. Notice that if a day selected from the Calendar widget, only the distribution of house prices, bedroom and bathroom will show as a day does nor necessarily determine a trend in the chart or have an impact on the map. If I select December from the Calendar widget dropdown, the whole chart changes however, if I select 23rd in the month of December, then distribution of house prices, bedroom and bathroom will react while displaying the result using distribution bars. For example, on the 23rd of December 2014, average house price ranges from $250k to $800k, the average bedroom ranges from 3 to 5, and bathroom ranging from 1 to 4.  
 
 | Distribution of House Prices                                   | Distribution of Bedrooms                           
 | -------------------------------------------------------------- | ------------------------------------------------------------ |
@@ -72,7 +68,15 @@ Main Analysis: Answer to the Problem Statement
 
 
 
-| Distribution of Bathrooms                                      | View Vs Condition Heatmap                          
+| Distribution of Bathrooms                                      | Daily Average House Sale Price                         
 | -------------------------------------------------------------- | ------------------------------------------------------------ |
-| ![](Distribution_of_Bathrooms.jpg)                             | ![](View_Vs_Condition_Heatmap.jpg)                          
+| ![](Distribution_of_Bathrooms.jpg)                             | ![](Daily_Average_House_Price.jpg)                          
+
+
+4. **What is the relationship between View and Condition of the house? Does it have an impact on the price of the property?:** Here, we compare views and condition of the house.The view can be Excellent, Good, Average, or no view. Also, the condition can be Fair or badly worn, Average, Good, or Very Good.                                              
+
+
+| Average House Sale Price by Zip Code (Map)                     | View Vs Condition Heatmap                          
+| -------------------------------------------------------------- | ------------------------------------------------------------ |
+| ![](Map.jpg)                                                   | ![](View_Vs_Condition_Heatmap.jpg) 
 
