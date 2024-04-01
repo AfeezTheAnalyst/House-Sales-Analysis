@@ -81,7 +81,7 @@ Main Analysis: Answer to the Problem Statement
 | ![](Map.jpg)                                                   | ![](Daily_Average_House_Price.jpg ) 
 
 
-### Dashboard Deployment
+### Final Dashboard:
 ![](HouseSale_Dashboard.jpg)
 
 You can interact with the report [here](https://public.tableau.com/app/profile/afeez.afolabi/viz/HouseSale-KingCountyWashingtonDC_17119324428440/KingCountyHouseSales?publish=yes) on Tableau Public Server.  
