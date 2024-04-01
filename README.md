@@ -47,3 +47,5 @@ Overall, analyzing house sales data provides valuable insights into the real est
 
 ## Data Modelling
 This is single file and it contains all necessary variables needed to analyze the data. In other word, this is our fact table.
+
+You can interact with the report [here](https://public.tableau.com/app/profile/afeez.afolabi/viz/HouseSale-KingCountyWashingtonDC_17119324428440/KingCountyHouseSales?publish=yes)
